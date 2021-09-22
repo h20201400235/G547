@@ -1,0 +1,1 @@
+cmd_/home/zayn22221/Desktop/DD_assignment/main.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/zayn22221/Desktop/DD_assignment/main.ko /home/zayn22221/Desktop/DD_assignment/main.o /home/zayn22221/Desktop/DD_assignment/main.mod.o;  true
