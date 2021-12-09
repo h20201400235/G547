@@ -242,6 +242,6 @@ static void __exit mydriver_exit(void) {
 
 module_init(mydriver_init);
 module_exit(mydriver_exit);
-MODULE_AUTHOR("SAINADH");
+MODULE_AUTHOR("SAINADH, SAYAN");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("MPU6050 Sensor Driver");
